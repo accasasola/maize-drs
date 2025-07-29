@@ -1,0 +1,6 @@
+@maize_drs_backend_HostAddress = http://localhost:5268
+
+GET {{maize_drs_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
